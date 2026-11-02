@@ -1,0 +1,2 @@
+# Starship-Orbital-Flight-and-Orbital-Debris-Avoidance-Simulator-
+This project presents the design, implementation and evaluation of an interactive educational simulation  titled “Starship Orbital Flight &amp; Debris Avoidance Simulator”. The application is written entirely in  pure Python 3 using only the standard Tkinter library, ensuring zero external dependencies and  maximum portability for laboratory use
